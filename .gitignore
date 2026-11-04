@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+~$*
+
+# Đề bài (không đưa lên GitHub)
+*.docx
